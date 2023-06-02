@@ -1,0 +1,9 @@
+.main {
+  position: relative;
+  margin-top: 100px;
+}
+
+.sub {
+  position: absolute;
+  right: 0;
+}
