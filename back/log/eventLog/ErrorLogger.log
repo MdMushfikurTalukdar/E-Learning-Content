@@ -1,0 +1,11 @@
+{"level":"error","message":"add_user create Cannot read properties of undefined (reading 'path')","timestamp":"2023-04-14T05:27:41.868Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Email\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:36:47.576Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Phone\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:40:31.601Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Email\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:40:53.437Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Email\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:45:20.508Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Email\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:46:33.273Z"}
+{"level":"error","message":"add_user create WHERE parameter \"Teacher_Email\" has invalid \"undefined\" value","timestamp":"2023-04-14T05:47:11.134Z"}
+{"level":"error","message":"add_user create Field 'User_ID' doesn't have a default value","timestamp":"2023-04-14T05:54:37.208Z"}
+{"level":"error","message":"add_user create notNull Violation: usertbls.User_ID cannot be null","timestamp":"2023-04-14T05:58:57.361Z"}
+{"level":"error","message":"add_user create connect ETIMEDOUT","timestamp":"2023-05-23T14:55:44.485Z"}
+{"level":"error","message":"add_user create Table 'sql12620475.teachers' doesn't exist","timestamp":"2023-05-23T14:55:48.431Z"}
